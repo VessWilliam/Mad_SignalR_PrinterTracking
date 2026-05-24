@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{091A6933-1C72-C4DF-33FE-E2AF6BF6353E}|PrinterStatus.csproj|c:\\users\\vess1\\onedrive\\desktop\\printerstatus\\printerstatus\\printerstatus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{091A6933-1C72-C4DF-33FE-E2AF6BF6353E}|PrinterStatus.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86287719-FE95-420A-BF78-6BE1C9C5CBD7}|..\\PrinterStatusSignalR\\PrinterStatusSignalR.csproj|c:\\users\\vess1\\onedrive\\desktop\\printerstatus\\printerstatus\\printerstatussignalr\\services\\printerstatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86287719-FE95-420A-BF78-6BE1C9C5CBD7}|..\\PrinterStatusSignalR\\PrinterStatusSignalR.csproj|c:\\users\\vess1\\onedrive\\desktop\\printerstatus\\printerstatus\\printerstatussignalr\\printermonitorworker\\printermonitorworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091A6933-1C72-C4DF-33FE-E2AF6BF6353E}|PrinterStatus.csproj|c:\\users\\vess1\\onedrive\\desktop\\printerstatus\\printerstatus\\printerstatus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091A6933-1C72-C4DF-33FE-E2AF6BF6353E}|PrinterStatus.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86287719-FE95-420A-BF78-6BE1C9C5CBD7}|..\\PrinterStatusSignalR\\PrinterStatusSignalR.csproj|c:\\users\\vess1\\onedrive\\desktop\\printerstatus\\printerstatus\\printerstatussignalr\\printerstatussignalr.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86287719-FE95-420A-BF78-6BE1C9C5CBD7}|..\\PrinterStatusSignalR\\PrinterStatusSignalR.csproj|c:\\users\\vess1\\onedrive\\desktop\\printerstatus\\printerstatus\\printerstatussignalr\\models\\printertrackingstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86287719-FE95-420A-BF78-6BE1C9C5CBD7}|..\\PrinterStatusSignalR\\PrinterStatusSignalR.csproj|c:\\users\\vess1\\onedrive\\desktop\\printerstatus\\printerstatus\\printerstatussignalr\\models\\printerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86287719-FE95-420A-BF78-6BE1C9C5CBD7}|..\\PrinterStatusSignalR\\PrinterStatusSignalR.csproj|c:\\users\\vess1\\onedrive\\desktop\\printerstatus\\printerstatus\\printerstatussignalr\\models\\enums\\printerhealthstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091A6933-1C72-C4DF-33FE-E2AF6BF6353E}|PrinterStatus.csproj|c:\\users\\vess1\\onedrive\\desktop\\printerstatus\\printerstatus\\printerstatus\\extensions\\endpointextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091A6933-1C72-C4DF-33FE-E2AF6BF6353E}|PrinterStatus.csproj|solutionrelative:extensions\\endpointextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091A6933-1C72-C4DF-33FE-E2AF6BF6353E}|PrinterStatus.csproj|c:\\users\\vess1\\onedrive\\desktop\\printerstatus\\printerstatus\\printerstatus\\endpoints\\printstatusendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091A6933-1C72-C4DF-33FE-E2AF6BF6353E}|PrinterStatus.csproj|solutionrelative:endpoints\\printstatusendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091A6933-1C72-C4DF-33FE-E2AF6BF6353E}|PrinterStatus.csproj|c:\\users\\vess1\\onedrive\\desktop\\printerstatus\\printerstatus\\printerstatus\\endpoints\\healthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091A6933-1C72-C4DF-33FE-E2AF6BF6353E}|PrinterStatus.csproj|solutionrelative:endpoints\\healthcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrinterStatusService.cs",
+              "DocumentMoniker": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatusSignalR\\Services\\PrinterStatusService.cs",
+              "RelativeDocumentMoniker": "..\\PrinterStatusSignalR\\Services\\PrinterStatusService.cs",
+              "ToolTip": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatusSignalR\\Services\\PrinterStatusService.cs",
+              "RelativeToolTip": "..\\PrinterStatusSignalR\\Services\\PrinterStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T10:10:48.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatus\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatus\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-24T10:05:53.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrinterStatusSignalR",
+              "DocumentMoniker": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatusSignalR\\PrinterStatusSignalR.csproj",
+              "RelativeDocumentMoniker": "..\\PrinterStatusSignalR\\PrinterStatusSignalR.csproj",
+              "ToolTip": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatusSignalR\\PrinterStatusSignalR.csproj",
+              "RelativeToolTip": "..\\PrinterStatusSignalR\\PrinterStatusSignalR.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-24T09:50:01.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrinterTrackingState.cs",
+              "DocumentMoniker": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatusSignalR\\Models\\PrinterTrackingState.cs",
+              "RelativeDocumentMoniker": "..\\PrinterStatusSignalR\\Models\\PrinterTrackingState.cs",
+              "ToolTip": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatusSignalR\\Models\\PrinterTrackingState.cs",
+              "RelativeToolTip": "..\\PrinterStatusSignalR\\Models\\PrinterTrackingState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T09:49:43.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrinterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatusSignalR\\Models\\PrinterConfig.cs",
+              "RelativeDocumentMoniker": "..\\PrinterStatusSignalR\\Models\\PrinterConfig.cs",
+              "ToolTip": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatusSignalR\\Models\\PrinterConfig.cs",
+              "RelativeToolTip": "..\\PrinterStatusSignalR\\Models\\PrinterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T09:48:46.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrinterHealthStatus.cs",
+              "DocumentMoniker": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatusSignalR\\Models\\Enums\\PrinterHealthStatus.cs",
+              "RelativeDocumentMoniker": "..\\PrinterStatusSignalR\\Models\\Enums\\PrinterHealthStatus.cs",
+              "ToolTip": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatusSignalR\\Models\\Enums\\PrinterHealthStatus.cs",
+              "RelativeToolTip": "..\\PrinterStatusSignalR\\Models\\Enums\\PrinterHealthStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T09:48:43.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrintStatusEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatus\\Endpoints\\PrintStatusEndpoint.cs",
+              "RelativeDocumentMoniker": "Endpoints\\PrintStatusEndpoint.cs",
+              "ToolTip": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatus\\Endpoints\\PrintStatusEndpoint.cs",
+              "RelativeToolTip": "Endpoints\\PrintStatusEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T09:21:41.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthCheck.cs",
+              "DocumentMoniker": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatus\\Endpoints\\HealthCheck.cs",
+              "RelativeDocumentMoniker": "Endpoints\\HealthCheck.cs",
+              "ToolTip": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatus\\Endpoints\\HealthCheck.cs",
+              "RelativeToolTip": "Endpoints\\HealthCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T09:21:40.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrinterMonitorWorker.cs",
+              "DocumentMoniker": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatusSignalR\\PrinterMonitorWorker\\PrinterMonitorWorker.cs",
+              "RelativeDocumentMoniker": "..\\PrinterStatusSignalR\\PrinterMonitorWorker\\PrinterMonitorWorker.cs",
+              "ToolTip": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatusSignalR\\PrinterMonitorWorker\\PrinterMonitorWorker.cs",
+              "RelativeToolTip": "..\\PrinterStatusSignalR\\PrinterMonitorWorker\\PrinterMonitorWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T09:20:50.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatus\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatus\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T09:20:36.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EndpointExtension.cs",
+              "DocumentMoniker": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatus\\Extensions\\EndpointExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\EndpointExtension.cs",
+              "ToolTip": "C:\\Users\\vess1\\OneDrive\\Desktop\\PrinterStatus\\PrinterStatus\\PrinterStatus\\Extensions\\EndpointExtension.cs",
+              "RelativeToolTip": "Extensions\\EndpointExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T09:20:25.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

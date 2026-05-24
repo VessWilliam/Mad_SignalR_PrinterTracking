@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../PrinterStatusSignalR/PrinterStatusSignalR.csproj" Id="86287719-fe95-420a-bf78-6be1c9c5cbd7" />
+  <Project Path="PrinterStatus.csproj" />
+</Solution>

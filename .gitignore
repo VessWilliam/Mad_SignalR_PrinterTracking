@@ -1,0 +1,9 @@
+ 
+# C#
+bin/
+obj/
+*.rar
+*.user
+
+# Node.js
+node_modules/
