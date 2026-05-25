@@ -3,6 +3,9 @@ using PrinterStatusSignalR.Hubs;
 
 namespace PrinterStatus.Extensions;
 
+/// <summary>
+/// Centralized endpoint registration to keep Program.cs clean and maintainable.
+/// </summary>
 public static class EndpointExtension
 {
 
