@@ -4,7 +4,7 @@ import { exec } from "child_process";
 const printerStates = {};
 
 const connection = new signalR.HubConnectionBuilder()
-  .withUrl("http://localhost:5053/printerHub")
+  .withUrl("http://localhost:5053/printerhub")
   .withAutomaticReconnect()
   .build();
 
