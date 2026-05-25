@@ -60,7 +60,7 @@ public class PrinterMonitorWorker : BackgroundService
             {
                 LastJobs = printer.Jobs,
                 LastChangeTime = DateTime.UtcNow,
-                a
+
             };
 
             _printerTrackStates[printer.PrinterName] = stats;
